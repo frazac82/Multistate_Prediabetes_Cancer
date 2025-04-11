@@ -1,0 +1,7 @@
+medcode	readterm
+3295	[D]Impaired glucose tolerance test
+10921	Impaired glucose tolerance
+10983	Impaired fasting glycaemia
+11149	[D]Prediabetes
+105434	Impaired glucose regulation
+106604	Pre-diabetes
